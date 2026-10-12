@@ -153,3 +153,4 @@
 ||infolinks.com^
 ||adcastmarket.com^
 ||ads.aceplanet.co.kr^
+||gall-minor.com^
