@@ -91,6 +91,10 @@ naver.com##+js(set, getAdcrUrl, '')
 koreapas.com##+js(set, random_imglink, noopFunc)
 imbc.com##+js(set, vrixadsdk, undefined)
 kilho.net##+js(set, hahaha, noopFunc)
+m.fmkorea.com##+js(json-prune, tpl, tpl.[].c)
+m.fmkorea.com##+js(json-prune, pp, pp.c)
+m.fmkorea.com##+js(json-prune, pp, pp.[].c)
+m.fmkorea.com##+js(json-prune, bt, bt.[].c)
 !
 ! DOMAIN-REFRESHER: START
 !

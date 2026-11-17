@@ -93,6 +93,10 @@ koreapas.com#%#//scriptlet('set-constant', 'random_imglink', 'noopFunc')
 imbc.com#%#//scriptlet('set-constant', 'vrixadsdk', 'undefined')
 kilho.net#%#//scriptlet('set-constant', 'hahaha', 'noopFunc')
 banhub.xyz#%#//scriptlet('remove-class', 'backdrop-blur-lg')
+m.fmkorea.com#%#//scriptlet('json-prune', 'bt', 'bt.[].c')
+m.fmkorea.com#%#//scriptlet('json-prune', 'pp', 'pp.[].c')
+m.fmkorea.com#%#//scriptlet('json-prune', 'pp', 'pp.c')
+m.fmkorea.com#%#//scriptlet('json-prune', 'tpl', 'tpl.[].c')
 !
 ! DOMAIN-REFRESHER: START
 !
